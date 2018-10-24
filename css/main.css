@@ -5,7 +5,25 @@
 /* NAVIGATION BAR*/
 
 /* LANDING PAGE*/
-
+.landing-page {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+.landing-page, img{
+	position: relative;
+	width: 100%;
+}
+.landing-text {
+	position: absolute;
+	top: 250px;
+	width: 100%;
+	text-transform: uppercase;
+}
+#landing-button {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
+}
 /* MISSION STATEMENT*/
 #mission-statement {
 	text-align: center;
