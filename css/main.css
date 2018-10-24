@@ -28,10 +28,10 @@
 #mission-statement {
 	text-align: center;
 	font-family: Arial, sans-serif;
-	padding: 100px;
+	padding: 120px;
 }
 .h2-mission, .p-mission, .p-credit {
-	padding: 10px;
+	padding: 15px;
 }
 /* TAKE ACTIONS */
 #take-actions1, #take-actions2 {
@@ -40,3 +40,20 @@
 	padding-right: 0;
 	padding-bottom: 75px;
 }
+#about-info {
+	text-align: center;
+}
+button {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
+}
+/* SUBSCRIBE */
+form {
+	text-align: center;
+}
+/* FOOTER */
+footer {
+	text-align: center;
+}
+
