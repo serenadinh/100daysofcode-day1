@@ -10,8 +10,15 @@
 #mission-statement {
 	text-align: center;
 	font-family: Arial, sans-serif;
-	padding: 150px;
+	padding: 100px;
 }
-/* TAKE ACTION 1*/
-
-/* TAKE ACTION 2*/
+.h2-mission, .p-mission, .p-credit {
+	padding: 10px;
+}
+/* TAKE ACTIONS */
+#take-actions1, #take-actions2 {
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 75px;
+}
