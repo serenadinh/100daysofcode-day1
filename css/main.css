@@ -3,7 +3,9 @@
 	margin: 0;
 }
 /* NAVIGATION BAR*/
-
+.navbar-brand {
+	text-transform: uppercase;
+}
 /* LANDING PAGE*/
 .landing-page {
 	text-align: center;
@@ -52,6 +54,9 @@ button {
 .subscribe {
 	text-align: center;
 	padding: 120px;
+}
+#subscribe-id, #btn-submit {
+	display: inline-block;
 }
 .btn-primary {
 	padding: 15px 25px;
