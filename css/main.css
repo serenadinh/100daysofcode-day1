@@ -49,11 +49,19 @@ button {
 	text-transform: uppercase;
 }
 /* SUBSCRIBE */
-form {
+.subscribe {
 	text-align: center;
+	padding: 120px;
+}
+.btn-primary {
+	padding: 15px 25px;
+	border-radius: 150em;
+	text-transform: uppercase;
 }
 /* FOOTER */
 footer {
 	text-align: center;
+	padding: 50px;
+	background-color: #383A3F;
 }
 
